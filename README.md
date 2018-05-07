@@ -10,6 +10,6 @@ truth labels.
 algorithms for insightful analysis of complex data structures", EU Horizon 2020
 SoBigData project under grant agreement No. 654024 and European Regional Development Fund under the grant KK.01.1.1.01.0009 (DATACROSS).
 
-<b>Reference</b>: When using the code in your research work, please cite "A Nonlinear Orthogonal Non-Negative Matrix Factorization Approach to Subspace Clustering" by Dijana Tolic, Nino Antulov-Fantulin and Ivica Kopriva.
+<b>Cite</b>: When using the code in your research work, please cite "A Nonlinear Orthogonal Non-Negative Matrix Factorization Approach to Subspace Clustering" by Dijana Tolic, Nino Antulov-Fantulin and Ivica Kopriva, https://doi.org/10.1016/j.patcog.2018.04.029
 
 
