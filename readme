@@ -1,0 +1,21 @@
+-------------------Supporting code in Matlab-----------------------------------
+
+Paper: A Nonlinear Orthogonal Non-Negative Matrix Factorization Approach to Subspace Clustering
+Authors: Dijana Tolic, Nino Antulov-Fantulin, Ivica Kopriva
+Contact: dijana.tolic@irb.hr
+Date: 28.03.2017.
+-------------------------------------------------------------------------------
+
+Content of folder:
+------------------
+demo.m - runs KNSC-Ncut algorithm on synthetic data and visualizes clustering results
+
+KNSC_NCUT.m - Kernel non-negative spectral clustering Ncut algorithm
+KNSC_RCUT.m - Kernel non-negative spectral clustering Rcut algorithm
+KOGNMF.m - Kernel-based orthogonal graph regularized non-negative matrix factorization
+
+gausskernel.m - Calculates Gaussian kernel matrix
+accuracy.m - Calculates the clustering accuracy with Hungarian algorithm
+hungarian.m - Implementation of Hungarian algorithm
+
+synthetic_data_6.mat - Synthetic data for demo.m
