@@ -8,7 +8,7 @@ truth labels.
 
 <b>Acknowledgement</b>: This work is supported by Croatian Science Foundation IP-2013-11-9623 "Machine learning
 algorithms for insightful analysis of complex data structures", EU Horizon 2020
-SoBigData project under grant agreement No. 654024 and the European Regional Development Fund under the grant KK.01.1.1.01.0009 (DATACROSS).
+SoBigData project under grant agreement No. 654024, the European Regional Development Fund under the grant KK.01.1.1.01.0009 (DATACROSS) and the Croatian Science Foundation IP-2016-06-5235 "Structured Decompositions of Empirical Data for Computationally-Assisted Diagnoses of Disease".
 
 <b>Cite</b>: When using the code in your work please cite "A Nonlinear Orthogonal Non-Negative Matrix Factorization Approach to Subspace Clustering" by Dijana Tolic, Nino Antulov-Fantulin and Ivica Kopriva, https://doi.org/10.1016/j.patcog.2018.04.029
 
